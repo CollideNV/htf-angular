@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 
-import "htf-2023-component";
+import "htf-component";
 
 @NgModule({
   declarations: [
